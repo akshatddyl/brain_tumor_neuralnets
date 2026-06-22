@@ -206,8 +206,3 @@ Input → (150 × 150 × 3 RGB Image)
 | **Split Strategy** | `train_test_split` · `test_size=0.2` · `random_state=42` |
 
 ---
-
-## 🙏 Acknowledgements
-
-- **[mohamedalihabib](https://github.com/mohamedalihabib)** — for creating and openly sharing the labelled Brain Tumor MRI dataset that made this project possible.
-- **[Dr. Manoj Diwakar](https://geu.ac.in/faculty/dr-manoj-diwakar)** — for his valuable guidance throughout the project building phase.
